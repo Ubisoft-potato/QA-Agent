@@ -14,7 +14,7 @@ from langchain.vectorstores import Chroma
 class QaAgent:
 
     def __init__(self):
-        llm = ChatOpenAI(temperature=0, model="gpt-3.5-turbo")
+        llm = ChatOpenAI(temperature=0, model="gpt-4")
 
         # retriever
         loaders = [
