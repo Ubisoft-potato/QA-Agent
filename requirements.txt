@@ -70,7 +70,7 @@ jupyterlab==4.0.7
 jupyterlab-pygments==0.2.2
 jupyterlab-widgets==3.0.9
 jupyterlab_server==2.25.0
-langchain==0.0.319
+langchain==0.0.325
 langchain-experimental==0.0.32
 langsmith==0.0.49
 MarkupSafe==2.1.3
